@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93570432610",
+    "firebase_url": "https://movieblogapp.firebaseio.com",
+    "project_id": "movieblogapp",
+    "storage_bucket": "movieblogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93570432610:android:696a4738fc1e3bce",
+        "android_client_info": {
+          "package_name": "com.example.movieblogapp.movieblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93570432610-umomkp0s5357agng47k6mjdbff8oitva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieblogapp.movieblogapp",
+            "certificate_hash": "9498517802f079716f1f5e0d04dac7e9ffb025da"
+          }
+        },
+        {
+          "client_id": "93570432610-ak5plkoobbjvfvf51m3frion54q8dc6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMm_6PpsCmZaiZ0MwMfGlfWEFqdupkZao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93570432610-ak5plkoobbjvfvf51m3frion54q8dc6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
